@@ -1,0 +1,6 @@
+{
+  "name": "Motor Digital Twin",
+  "description": "Live Condition Monitoring, Simulated Telemetry, and Anomaly Detection Dashboard for Industrial Electric Motors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
